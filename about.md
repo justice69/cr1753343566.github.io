@@ -14,7 +14,7 @@ title: 我是谁?我在哪?我在敲代码
 <h3> 个人信息 </h3>  
 你可以通过QQ，微信，支付宝来联系我，也可以在网易云音乐互相关注！！！
 <p>
-<table width="auto" height="150px" cellpadding="0" cellspacing="0" align="center">
+<table width="auto"  cellpadding="0" cellspacing="0" align="center">
 <tr>
 <td ><img src="images/qq.JPG" /></td>
 <td ><img src="images/wx.JPG" /></td>
