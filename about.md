@@ -16,7 +16,7 @@ title: 我是谁?我在哪?我在敲代码
 <p>
 <table width="auto"  cellpadding="0" cellspacing="0" align="center" border="0">
 <tr>
-<td ><img src="images/qq.JPG" /></td>
+<td >![](images/wx.jpg)</td>
 <td ><img src="images/wx.JPG" /></td>
 <td><img src="images/zfb.JPG" /></td>
 <td ><img src="images/wyy.jpg" /></td>
