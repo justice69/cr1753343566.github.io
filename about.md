@@ -12,22 +12,10 @@ title: 我是谁?我在哪?我在敲代码
 <p>
 
 <h3> 个人信息 </h3>  
+
 你可以通过QQ，微信，支付宝来联系我，也可以在网易云音乐互相关注！！！
-<p>
-<table width="auto"  cellpadding="0" cellspacing="0" align="center" border="0">
-<tr>
-<td >![](images/wx.jpg)</td>
-<td ><img src="images/wx.JPG" /></td>
-<td><img src="images/zfb.JPG" /></td>
-<td ><img src="images/wyy.jpg" /></td>
-</tr>
-<tr style="text-align:center">
-<td>QQ</td>
-<td>微信</td>
-<td>支付宝</td>
-<td>网易云音乐</td>
-</tr>
-</table>
+
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="../images/qq.jpg" ></div>
 
 
 
