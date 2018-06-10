@@ -15,7 +15,7 @@ title: 我是谁?我在哪?我在敲代码
 
 你可以通过QQ，微信，支付宝来联系我，也可以在网易云音乐互相关注！！！
 
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="../images/qq.jpg" ></div>
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="images/qq.jpg" ></div>
 
 
 
