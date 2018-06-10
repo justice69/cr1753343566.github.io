@@ -15,10 +15,10 @@ title: 我是谁?我在哪?我在敲代码
 你可以通过QQ，微信，支付宝来联系我，也可以在网易云音乐互相关注！！！
 <p>
 #### 文章详情 
-![](/images/about//qq.jpg) 
-![](/images/about//wx.jpg) 
-![](/images/about//zfb.jpg) 
-![](/images/about//wyy.jpg) 
+![](/images/qq.jpg) 
+![](/images/wx.jpg) 
+![](/images/zfb.jpg) 
+![](/images/wyy.jpg) 
 
 
 博客源码在 <a target="_blank" href='https://github.com/cr1753343566/cr1753343566.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
