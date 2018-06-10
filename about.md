@@ -16,7 +16,7 @@ title: 我是谁?我在哪?我在敲代码
 你可以通过QQ，微信，支付宝来联系我，也可以在网易云音乐互相关注！！！
 <p>
 <table  width="auto" cellpadding="0" cellspacing="0" style="text-align:center">
-<tr>
+<tr style="border:1px solid">
 <td>
 <img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/qq.JPG" />
 </td>
@@ -30,7 +30,7 @@ title: 我是谁?我在哪?我在敲代码
 <img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wyy.jpg" />
 </td>
 </tr>
-<tr>
+<tr style="border:1px solid">
 <td>
 </td><td>
 </td><td>
