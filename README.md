@@ -10,7 +10,8 @@ Jekyll 需要依赖：Ruby、bundler
 #### 安装Jekyll
 
 [Jekyll中文官方文档](http://jekyll.bootcss.com/) ， 如果你已经安装过了 Jekyll，可以忽略此处。
-
+##
+![](images/about//qq.jpg)
 
 ### 提示
 
@@ -21,3 +22,4 @@ Jekyll 需要依赖：Ruby、bundler
 #### 感谢   
 本博客原作者的地址：(http://http://baixin.io/) ,感谢原作者的贡献
 原作者在[Vno Jekyll](https://github.com/onevcat/vno-jekyll)基础上修改的。  
+
