@@ -15,9 +15,12 @@ title: 我是谁?我在哪?我在敲代码
 你可以通过QQ，微信，支付宝来联系我，也可以在网易云音乐互相关注！！！
 <p>
   
-![](/images/qq.jpg),
-![](/images/wx.jpg),
-![](/images/zfb.jpg),
+![](/images/qq.jpg)
+
+![](/images/wx.jpg)
+
+![](/images/zfb.jpg)
+
 ![](/images/wyy.jpg), 
 
 
