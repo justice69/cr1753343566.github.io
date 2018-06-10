@@ -16,9 +16,9 @@ title: 我是谁?我在哪?我在敲代码
 <p>
 <table width="auto" height="150px" cellpadding="0" cellspacing="0" align="center">
 <tr>
-<td style="width:150px height:150px">![](images/qq.jpg) </td>
-<td style="width:150px height:150px">![](/images/wx.jpg)</td>
-<td style="width:150px height:150px">![](/images/zfb.jpg)</td>
+<td style="width:150px height:150px"><img src="images/qq.JPG" /></td>
+<td style="width:150px height:150px"><img src="images/tx.JPG" /></td>
+<td style="width:150px height:150px"><img src="images/zfb.JPG" /></td>
 </tr>
 <tr style="text-align:center">
 <td>QQ</td>
