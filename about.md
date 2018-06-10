@@ -16,10 +16,10 @@ title: 我是谁?我在哪?我在敲代码
 <p>
 <table width="auto" height="150px" cellpadding="0" cellspacing="0" align="center">
 <tr>
-<td style="width:150px height:150px"><img src="images/qq.JPG" /></td>
-<td style="width:150px height:150px"><img src="images/wx.JPG" /></td>
-<td style="width:150px height:150px"><img src="images/zfb.JPG" /></td>
-<td style="width:150px height:150px"><img src="images/wyy.jpg" /></td>
+<td ><img src="images/qq.JPG" /></td>
+<td ><img src="images/wx.JPG" /></td>
+<td><img src="images/zfb.JPG" /></td>
+<td ><img src="images/wyy.jpg" /></td>
 </tr>
 <tr style="text-align:center">
 <td>QQ</td>
