@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<article class="post-container post-container--single" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <div class="post-meta">
+      <img src="/images/calendar.png" width="20px"/> 
+      <time datetime="{{page.date | date: date_to_xmlschema}}" itemprop="datePublished" class="post-meta__date date">{{page.date | date: "%F"}}</time>  
+         
+      <span id="busuanzi_container_page_pv"> | 阅读：<span id="busuanzi_value_page_pv"></span>次</span>
+    </p>
+    </div>
+  </header>
+
+  <section class="post">
+    {{ content }}
+
+  </section>
+</article>
+<div id="container"></div>
+	<link rel="stylesheet" href="https://billts.site/extra_css/gitment.css">
+  <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+	<script>
+	var gitment = new Gitment({
+        
+	  owner: 'cr1753343566',
+	  repo: 'cr1753343566.github.io',
+	  oauth: {
+		client_id: '647350b1e0fde739b52c',
+		client_secret: 'dff71ce5cd4b6abc4d655fd78b9ab098340c6fe0',
+	  },
+	})
+	gitment.render('container')
+	</script>
