@@ -11,17 +11,12 @@ title: 我是谁?我在哪?我在敲代码
 
 <p>
 
-<h3> 博客搭建 </h3>  
-
-<p>
-
-是的，这个博客是别人的，经过fork之后变成自己的，但是怎么说呢，不满意，换了好几个模板，怎么说呢，感觉最好自己整一个，当然得有时间去弄
-
-<p>
-
-如果你想搭建一个博客，可以参考 
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
-教程
+<h3> 个人信息 </h3>  
+你可以通过QQ，微信，支付宝来联系我，也可以在网易云音乐互相关注！！！
+![QQ](/images/about/qq.jpg) 
+![微信](/images/about/wx.jpg) 
+![支付宝](/images/about/zfb.jpg) 
+![网易云](/images/about/wyy.jpg) 
 
 
 博客源码在 <a target="_blank" href='https://github.com/cr1753343566/cr1753343566.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
