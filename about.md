@@ -14,8 +14,19 @@ title: 我是谁?我在哪?我在敲代码
 <h3> 个人信息 </h3>  
 你可以通过QQ，微信，支付宝来联系我，也可以在网易云音乐互相关注！！！
 <p>
- 
-![](/images/qq.jpg) ![](/images/wx.jpg) ![](/images/zfb.jpg)  ![](/images/wyy.jpg)
+<table width="auto" height="150px" cellpadding="0" cellspacing="0" align="center">
+<tr>
+<td style="width:150px height:150px">![](images/qq.jpg) </td>
+<td style="width:150px height:150px">![](/images/wx.jpg)</td>
+<td style="width:150px height:150px">![](/images/zfb.jpg)</td>
+</tr>
+<tr style="text-align:center">
+<td>QQ</td>
+<td>微信</td>
+<td>支付宝</td>
+</tr>
+</table>
+
 
 
 博客源码在 <a target="_blank" href='https://github.com/cr1753343566/cr1753343566.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
