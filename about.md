@@ -15,12 +15,12 @@ title: 我是谁?我在哪?我在敲代码
 
 你可以通过QQ，微信，支付宝来联系我，也可以在网易云音乐互相关注！！！
 <p>
-  
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wx.JPG" ></div>
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wx.JPG" ></div>
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wx.JPG" ></div>
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wx.JPG" ></div>
-
+<div style="margin:0 auto">
+<div  style=" position:absolute" ><img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/qq.JPG" /></div>
+<div  style=" left:170px; position:absolute" ><img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wx.JPG" /></div>
+<div  style="left:340px;  position:absolute "><img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/zfb.JPG" /></div>
+<div  style="left:510px;  position:absolute" ><img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wyy.JPG" /></div>
+</div>
 
 
 博客源码在 <a target="_blank" href='https://github.com/cr1753343566/cr1753343566.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
