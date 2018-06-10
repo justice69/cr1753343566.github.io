@@ -17,13 +17,15 @@ title: 我是谁?我在哪?我在敲代码
 <table width="auto" height="150px" cellpadding="0" cellspacing="0" align="center">
 <tr>
 <td style="width:150px height:150px"><img src="images/qq.JPG" /></td>
-<td style="width:150px height:150px"><img src="images/tx.JPG" /></td>
+<td style="width:150px height:150px"><img src="images/wx.JPG" /></td>
 <td style="width:150px height:150px"><img src="images/zfb.JPG" /></td>
+<td style="width:150px height:150px"><img src="images/wyy.JPG" /></td>
 </tr>
 <tr style="text-align:center">
 <td>QQ</td>
 <td>微信</td>
 <td>支付宝</td>
+<td>网易云音乐</td>
 </tr>
 </table>
 
