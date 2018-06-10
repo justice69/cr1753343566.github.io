@@ -1,4 +1,4 @@
-# leopard
+# h.Dom
 (http://cr1753343566.github.io) 是一个简洁的博客模板，如果你也喜欢请 Star
 
 ### 使用条件
@@ -11,7 +11,7 @@ Jekyll 需要依赖：Ruby、bundler
 
 [Jekyll中文官方文档](http://jekyll.bootcss.com/) ， 如果你已经安装过了 Jekyll，可以忽略此处。
 ##
-![](images/about//qq.jpg)
+
 
 ### 提示
 
