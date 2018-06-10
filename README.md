@@ -20,7 +20,7 @@ Jekyll 需要依赖：Ruby、bundler
 
 ### 联系我
 
-<table width="auto" height="150px" cellpadding="0" cellspacing="0" align="center">
+<table width="auto" height="auto" cellpadding="0" cellspacing="0" align="center" border="0">
 <tr>
 <td style="width:150px height:150px"><img src="images/qq.JPG" /></td>
 <td style="width:150px height:150px"><img src="images/wx.JPG" /></td>
