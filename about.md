@@ -17,8 +17,8 @@ title: 我是谁?我在哪?我在敲代码
 
 <div style="inline">
 <img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/qq.JPG" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wx.JPwidth="100px" height="100px"G" width="100px" height="100px"width="100px" height="100px"/>
-  <img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/zfb.JPG" width="100px" height="100px"/>
+<img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wx.JPG" width="100px" height="100px"/>
+<img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/zfb.JPG" width="100px" height="100px"/>
 <img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wyy.jpg" width="100px" height="100px"/>
 </div>
 
