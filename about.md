@@ -17,10 +17,10 @@ title: 我是谁?我在哪?我在敲代码
 
 <div style="width:600px; height:150px; overflow:hidden;">
  <div style="width:700px; height:150px;">
-<img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/qq.JPG" width="150" height="150" />
-<img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wx.JPG" width="150" height="150" />
-<img  src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/zfb.JPG" width="150" height="150" />
-<img  src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wyy.jpg" width="150" height="150" />    
+<img style="margin:0 0" src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/qq.JPG" width="150" height="150" />
+<img style="margin:0 150" src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wx.JPG" width="150" height="150" />
+<img style="margin:0 300" src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/zfb.JPG" width="150" height="150" />
+<img style="margin:0 450" src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wyy.jpg" width="150" height="150" />    
 </div>
 
 </div>
