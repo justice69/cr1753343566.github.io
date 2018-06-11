@@ -14,14 +14,14 @@ title: 我是谁?我在哪?我在敲代码
 <h3> 个人信息 </h3>  
 
 你可以通过QQ，微信，支付宝来联系我，也可以在网易云音乐互相关注！！！
-<br />
+<p>
 <div  style=" background:url(https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/ab.jpg); width:780px;height:460px;margin:0 0;">
 <img  src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/qq.JPG" width="115" height="115" />
 <img  src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wx.JPG" width="115" height="115" />
 <img  src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/zfb.JPG" width="115" height="115" />
 <img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wyy.jpg" width="115" height="115" />   
 </div>
-
+<p>
 博客源码在 <a target="_blank" href='https://github.com/cr1753343566/cr1753343566.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
 
