@@ -21,9 +21,9 @@ Jekyll 需要依赖：Ruby、bundler
 ### 联系我
 
 <div>
-  <img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/qq.jpg" />
-  <img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wx.jpg" />
-  <img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/zfb.jpg" />
+  <img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/qq.JPG" />
+  <img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wx.JPG" />
+  <img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/zfb.JPG" />
   <img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wyy.jpg" />
   </div>
 #### 感谢   
