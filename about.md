@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 我是谁?我在哪?我在敲代码 
 ---
 
