@@ -1,34 +1,32 @@
+---
+layout: page
+title: 我是谁?我在哪?我在敲代码 
+---
 
-# h.Dom
-(http://cr1753343566.github.io) 是一个简洁的博客模板，如果你也喜欢请 Star
+一个马上要毕业的学生，喜欢折腾，博客使用GitHub+Jekyll，平时还喜欢踢踢球。
+<p>
+平时喜欢逛逛技术论坛，看一下有没有对自己胃口的新奇玩意，好折腾一番。
+<p>
+我是一个数学系的学生，但是不要指望我会做什么高难度的数学题，编程语言方面个人目前主Java，还有一颗学习python的心
 
-### 使用条件
+<p>
 
-Jekyll 支持 Mac 、Windows、ubuntu 、Linux 操作系统                     
-Jekyll 需要依赖：Ruby、bundler
+<h3> 个人信息 </h3>  
 
+你可以通过QQ，微信，支付宝来联系我，也可以在网易云音乐互相关注！！！
+<p>
 
-#### 安装Jekyll
-
-[Jekyll中文官方文档](http://jekyll.bootcss.com/) ， 如果你已经安装过了 Jekyll，可以忽略此处。
-##
+<img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/lx.jpg" />
 
 
-### 提示
+博客源码在 <a target="_blank" href='https://github.com/cr1753343566/cr1753343566.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
->* 如果你想使用这个模板，请把 _posts/ 目录下的文章都去掉。
->* 修改 _config.yml 文件里面的内容为你自己的个人信息。
 
-### 联系我
 
-<div>
-  <img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/qq.JPG" />
-  <img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wx.JPG" />
-  <img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/zfb.JPG" />
-  <img src="https://raw.githubusercontent.com/CR1753343566/cr1753343566.github.io/master/images/wyy.jpg" />
-  <P>&nbsp，&nbsp，&nbsp，QQ，&nbsp，&nbsp，&nbsp，&nbsp，&nbsp，微信，&nbsp，&nbsp，&nbsp，&nbsp，&nbsp，&nbsp，支付宝，&nbsp，&nbsp，&nbsp，&nbsp，网易云音乐，&nbsp，&nbsp，&nbsp，&nbsp，</P>
-  </div>
-#### 感谢   
-本博客原作者的地址：(http://http://baixin.io/) ,感谢原作者的贡献
-原作者在[Vno Jekyll](https://github.com/onevcat/vno-jekyll)基础上修改的。  
+
+
+
+
+
+
 
