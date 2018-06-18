@@ -19,19 +19,23 @@ layout: default
 
   </section>
 </article>
-<div id="container"></div>
-	<link rel="stylesheet" href="https://billts.site/extra_css/gitment.css">
-  <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
- 
-	<script>
-	var gitment = new Gitment({
-           id: '<%= page.title %>',
-	  owner: 'cr1753343566',
-	  repo: 'cr1753343566.github.io',
-	  oauth: {
-		client_id: '39a849424f19db5c81f5',
-		client_secret: 'af13d5b9502e3b60ed3dcf53b95b3ae2c26b0e91',
-	  },
-	})
-	gitment.render('container')
-	</script>
+<!-- Gitalk 评论 start  -->
+
+<!-- Link Gitalk 的支持文件  -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+<div id="gitalk-container"></div>     <script type="text/javascript">
+    var gitalk = new Gitalk({
+
+    // gitalk的主要参数
+		clientID: `39a849424f19db5c81f5`,
+		clientSecret: `af13d5b9502e3b60ed3dcf53b95b3ae2c26b0e91`,
+		repo: `cr1753343566.github.io`,
+		owner: ' cr1753343566',
+		admin: ['CR1753343566 '],
+		id: ' window.location.pathname ',
+    
+    });
+    gitalk.render('gitalk-container');
+</script> 
+<!-- Gitalk end -->
