@@ -1,7 +1,7 @@
 # Basic
 title: h.Dom
-subtitle: 私站
-description: 一个会写bug的程序猿奥
+subtitle: 小黑屋
+description: Bug都不会写的程序员
 # 头像里面的标题
 avatarTitle: CR7
 # 头像里面的描述
@@ -20,11 +20,6 @@ social:
 
 baidu:
     id: a2e4ae4ddb33d1e4229031e050ff5130
-
- 
-
-
-
 
 
 permalink: /:year/:month/:title/
