@@ -40,3 +40,17 @@ layout: default
     gitalk.render('gitalk-container');
 </script> 
 <!-- Gitalk end -->
+<div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  owner: 'cr1753343566',
+  repo: 'cr1753343566.github.io',
+  oauth: {
+    client_id: '174190ca5564acec44b6',
+    client_secret: '57cdc19ab1b0e3268967b84c516e71542379b0ff',
+  },
+})
+gitment.render('container')
+</script>
