@@ -24,9 +24,10 @@ layout: default
 <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
 <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
 <script>
-  alert( window.location.pathname );
+  var id=<%= page.title %>;
+  alert(id);
 var gitment = new Gitment({
-  id: 'window.location.pathname.toString', 
+  id: '<%= page.title %>',
   owner: 'cr1753343566',
   repo: 'cr1753343566.github.io',
   oauth: {
