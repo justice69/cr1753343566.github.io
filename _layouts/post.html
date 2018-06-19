@@ -27,7 +27,7 @@ layout: default
  
   
 var gitment = new Gitment({
-  id: 'window.location.pathname.substr(39,49)',
+  id: 'decodeURI(window.location.pathname.substring(39,window.location.pathname.length-1))',
   owner: 'cr1753343566',
   repo: 'cr1753343566.github.io',
   oauth: {
