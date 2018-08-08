@@ -83,7 +83,7 @@ tag:  ssm框架
 
 MapperScannerConfiguer会自动扫描包下的Mapper接口，并将它们直接注册为MapperFactoryBean,配置如下：
 
-<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
         <property name="basePackage" value="com.ssm.dao"></property>
     </bean>
     <context:component-scan base-package="com.ssm.service"></context:component-scan>
@@ -92,14 +92,7 @@ MapperScannerConfiguer会自动扫描包下的Mapper接口，并将它们直接�
 
 我们来对三种方式进行对比，看怎么一步一步的实现代码的不断简化
 
-
-<table>
-<tr style="text-align:center">
-<td>使用SqlSessionTemplate实现整合</td>
-<td>使用MapperFactoryBean实现整合</td>
-<td>配置MapperCongiguer简化</td>
-</tr>
-<td>
+**使用SqlSessionTemplate实现整合**
 
     <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource"
         destroy-method="close">
@@ -134,8 +127,9 @@ MapperScannerConfiguer会自动扫描包下的Mapper接口，并将它们直接�
     <bean id="userService" class="cn.smbms.service.user.UserServiceImpl">
         <property name="userMapper" ref="userMapper" />
     </bean>
-</td>
-<td>
+
+
+**使用MapperFactoryBean实现整合**
 
     <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource"
         destroy-method="close">
@@ -172,8 +166,8 @@ MapperScannerConfiguer会自动扫描包下的Mapper接口，并将它们直接�
     <bean id="userService" class="cn.smbms.service.user.UserServiceImpl">
         <property name="userMapper" ref="userMapper" />
     </bean>
-</td>
-<td>
+
+**配置MapperCongiguer简化**
 
     <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource"
         destroy-method="close">
@@ -200,11 +194,10 @@ MapperScannerConfiguer会自动扫描包下的Mapper接口，并将它们直接�
         <property name="basePackage" value="cn.smbms.dao" />
     </bean>
     <context:component-scan base-package="cn.smbms.service" />
-</td>
-<tr>
-</table>
+    
 
-所以进化的操作就在与从SQL映射文件的配置和dao实现类中进行getMapper方法简化使用数据映射器，根据Mapper接口获取Mapper对象，封装了原有的SqlSession.getMapper()功能的实现，从而省去了dao实现类，再加入MapperScannerConfiguer来简化配置项，自动扫描包下的Mapper接口并自动注册为MapperFactoryBean在Service中直接@Autowired注入。
+进化就是一步步简化代码，从SQL映射文件的配置和dao实现类中进行getMapper方法简化到使用数据映射器，根据Mapper接口获取Mapper对象，封装了原有的SqlSession.getMapper()功能的实现，从而省去了dao实现类，再加入MapperScannerConfiguer来简化配置项，自动扫描包下的Mapper接口并自动注册为MapperFactoryBean在Service中直接@Autowired注入。
+
 
 
 
