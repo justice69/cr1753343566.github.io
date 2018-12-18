@@ -44,7 +44,7 @@ Linux下基本指令
 
 ### pwd 显示用户当前所在的目录 
 
-    <img src=/images/pwd.PNG>
+<img src=/images/pwd.PNG>
 
 ### cd 改变工作目录。将当前目录改变到指定的目录下
 
