@@ -25,18 +25,18 @@ Linux下基本指令
 - -d [ls -d+指定的目录]将目录像文件一样显示，而不显示其下的文件
 - -i 输出文件的i结点的索引信息
     
-    <img src="./images/ls-ai.PNG">
+    <img src="/images/ls-ai.PNG">
 
 - -k [ls -alk]以k字节的形式表示文件大小
 - -l 列出文件的详细信息
 - -n 用数字的UID,GID代替名称
 - -F 在每个文件名后附一个字符以说明文件的类型(目录类型识别)"*"表示可执行的普通文件；"/"表示目录；"@"表示符号链接,"l"表示FIFOs；"="表示套接字
     
-    <img src="./images/ls-F.PNG">
+    <img src="/images/ls-F.PNG">
 
 - -r 对目录反向排序
 
-    <img src="./images/ls-r.PNG">
+    <img src="/images/ls-r.PNG">
 
 - -s 在l文件名后输出该文件的大小
 - -R 递归出所有子目录下的文件
@@ -44,7 +44,7 @@ Linux下基本指令
 
 ### pwd 显示用户当前所在的目录 
 
-    <img src=./images/pwd.PNG>
+    <img src=/images/pwd.PNG>
 
 ### cd 改变工作目录。将当前目录改变到指定的目录下
 
@@ -364,7 +364,7 @@ $*与$@的区别：
 
 ### 算数运算符
 
-<img src="./img/ss.PNG">
+<img src="/images/ss.PNG">
 
 **乘号(*)前边必须加反斜杠(\)才能实现乘法运算**
 
